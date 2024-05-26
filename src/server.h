@@ -129,6 +129,7 @@ public:
 				writer.String("index");
 				writer.Int(tracker->idx);
 
+				writer.EndArray();
 				writer.EndObject();
 			};
 
