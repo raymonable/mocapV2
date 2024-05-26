@@ -6,7 +6,7 @@ A program for creating Mocap (Motion Capture) data from SteamVR trackers (but bu
 ### What does this program do?
 
 - Allow you to list your SteamVR trackers
-- Capture live tracker data (broken at the moment)
+- Capture live tracker data
 - Record tracker data at 60 frames per second
 
 ... all in one web API!
@@ -37,7 +37,7 @@ See the [documentation](docs) for more details!
 
 ## Problems / Unfinished features
 
-- `/trackers/live` has broken JSON (too lazy to fix and re-build)
+- ~~`/trackers/live` has broken JSON (too lazy to fix and re-build)~~
 - Includes and additional libraries paths are relative to my user profile (bad)
 - No variable framerates
 - No HTTPS support
