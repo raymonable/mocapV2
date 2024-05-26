@@ -31,7 +31,7 @@ See the [documentation](docs) for more details!
 > :exclamation: There are pre-compiled builds in the Releases tab. There are no dependencies (from what I can tell).
 
 1. Clone this Git repo
-2. Open the solution in Visual Studio
+2. Open the solution in Visual Studio 2019+
 3. Fix the includes and library paths (would love if this was applied to the actual repository)
 4. Build for Release (x64)
 
