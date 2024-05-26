@@ -128,8 +128,7 @@ public:
 
 				writer.String("index");
 				writer.Int(tracker->idx);
-
-				writer.EndArray();
+				
 				writer.EndObject();
 			};
 
@@ -168,6 +167,7 @@ public:
 				for (size_t idx = 0; 12 > idx; idx++)
 					writer.Double(trackerCFrame.m[idx]);
 
+				writer.EndArray();
 				writer.EndObject();
 			}
 
