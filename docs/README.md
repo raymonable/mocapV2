@@ -27,8 +27,6 @@ Note that the new list of trackers is not returned, you will have to obtain it f
 
 ### `/trackers/live`
 
-> :warning: This endpoint may be broken. There is an error in the JSON; if you want to fix it, please send in a Pull Request.
-
 Fetches the current position of trackers.<br>
 `cframe` is relative to the Roblox CFrame format.
 
