@@ -28,7 +28,7 @@ See the [documentation](docs) for more details!
 
 ## Build instructions
 
-> :exclamation: There are pre-compiled builds in the Releases tab. There are no dependencies (from what I can tell).
+> :exclamation: There are pre-compiled builds in the Releases tab. You may need to install the [Visual Studio Runtime](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) package.
 
 1. Clone this Git repo
 2. Open the solution in Visual Studio 2019+
