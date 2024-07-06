@@ -38,6 +38,6 @@ See the [documentation](docs) for more details!
 ## Problems / Unfinished features
 
 - ~~`/trackers/live` has broken JSON (too lazy to fix and re-build)~~
-- Includes and additional libraries paths are relative to my user profile (bad)
+- ~~Includes and additional libraries paths are relative to my user profile (bad)~~
 - No variable framerates
 - No HTTPS support
