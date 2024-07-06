@@ -28,7 +28,7 @@ Note that the new list of trackers is not returned, you will have to obtain it f
 ### `/trackers/live`
 
 Fetches the current position of trackers.<br>
-`cframe` is relative to the Roblox CFrame format.
+`cframe` is relative to the Roblox CFrame format, and is simply a 3x4 matrix.
 
 ## Mocap
 
