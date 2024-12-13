@@ -32,12 +32,11 @@ See the [documentation](docs) for more details!
 
 1. Clone this Git repo
 2. Open the solution in Visual Studio 2019+
-3. Fix the includes and library paths (would love if this was applied to the actual repository)
-4. Build for Release (x64)
+3. Build for Release (x64)
 
 ## Problems / Unfinished features
 
 - ~~`/trackers/live` has broken JSON (too lazy to fix and re-build)~~
 - ~~Includes and additional libraries paths are relative to my user profile (bad)~~
 - No variable framerates
-- No HTTPS support
+- No HTTPS support (code for it is stubbed)
